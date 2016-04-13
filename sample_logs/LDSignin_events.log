@@ -1,0 +1,203 @@
+INFO  - YYYY-04-DD 14:04:SS - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - YYYY-04-DD 14:04:SS - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 14:34:51 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 14:34:51 - Ignoring header line # 1
+INFO  - 2016-04-10 14:34:51 - Read 49 valid rows from input file
+INFO  - 2016-04-10 14:35:02 - Person #100214315 changing status from absent to checked-in
+INFO  - 2016-04-10 14:35:07 - Person #100214300 changing status from absent to checked-in
+INFO  - 2016-04-10 14:35:11 - Person #100214315 changing status from checked-in to absent
+INFO  - 2016-04-10 14:35:14 - Person #100214699 changing status from absent to checked-in
+INFO  - 2016-04-10 14:36:57 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 14:36:57 - Ignoring header line # 1
+INFO  - 2016-04-10 14:36:57 - Read 49 valid rows from input file
+INFO  - 2016-04-10 14:37:04 - Person #100214315 changing status from absent to checked-in (8 Ames Lake) (Claire A Bonilla)
+INFO  - 2016-04-10 14:37:06 - Person #100214339 changing status from absent to checked-in (8 Bacus) (Gordon John Hogenson)
+INFO  - 2016-04-10 14:37:09 - Person #100214315 changing status from checked-in to absent (8 Ames Lake) (Claire A Bonilla)
+INFO  - 2016-04-10 14:37:12 - Person #100214300 changing status from absent to checked-in (8 Ames Lake) (Michael Gerard Burner)
+INFO  - 2016-04-10 14:42:16 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 14:42:16 - Ignoring header line # 1
+INFO  - 2016-04-10 14:42:16 - Read 49 valid rows from input file
+INFO  - 2016-04-10 14:42:29 - Person #100214339 changing status from absent to checked-in (8 Bacus) (Gordon John Hogenson)
+INFO  - 2016-04-10 14:42:35 - Person #100214698 changing status from absent to checked-in (8 CAR 45-0290) (Michelle Poage)
+INFO  - 2016-04-10 14:42:42 - Person #100214305 changing status from absent to checked-in (8 Ames Lake) (Nicki M Romley)
+INFO  - 2016-04-10 14:49:16 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 14:49:16 - Ignoring header line # 1
+INFO  - 2016-04-10 14:49:16 - Read 49 valid rows from input file
+INFO  - 2016-04-10 14:49:37 - Person #100214315 changing status from absent to checked-in (8 Ames Lake) (Claire A Bonilla)
+INFO  - 2016-04-10 14:50:03 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 14:50:03 - Ignoring header line # 1
+INFO  - 2016-04-10 14:50:03 - Read 49 valid rows from input file
+INFO  - 2016-04-10 14:51:46 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 14:51:46 - Ignoring header line # 1
+INFO  - 2016-04-10 14:51:46 - Read 49 valid rows from input file
+INFO  - 2016-04-10 14:52:10 - Person #100214700 changing status from absent to checked-in (8 CAR 45-0290) (Margaret A Hindle)
+INFO  - 2016-04-10 14:52:12 - Person #100214709 changing status from absent to checked-in (8 CAR 45-3290) (Ronald P Bluher)
+INFO  - 2016-04-10 14:52:14 - Person #100214310 changing status from absent to checked-in (8 Ames Lake) (Michael Francis McGuffin)
+INFO  - 2016-04-10 14:55:06 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 14:55:06 - Ignoring header line # 1
+INFO  - 2016-04-10 14:55:06 - Read 49 valid rows from input file
+INFO  - 2016-04-10 14:55:15 - Person #100214315 changing status from absent to checked-in (8 Ames Lake) (Claire A Bonilla)
+INFO  - 2016-04-10 14:55:18 - Person #100214698 changing status from absent to checked-in (8 CAR 45-0290) (Michelle Poage)
+INFO  - 2016-04-10 15:00:43 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:00:43 - Ignoring header line # 1
+INFO  - 2016-04-10 15:00:43 - Read 49 valid rows from input file
+INFO  - 2016-04-10 15:00:56 - Person #100214311 changing status from absent to checked-in (8 Ames Lake) (Michael J Bicak)
+INFO  - 2016-04-10 15:00:59 - Person #100214339 changing status from absent to checked-in (8 Bacus) (Gordon John Hogenson)
+INFO  - 2016-04-10 15:16:21 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:16:21 - Ignoring header line # 1
+INFO  - 2016-04-10 15:16:21 - Read 49 valid rows from input file
+INFO  - 2016-04-10 15:19:06 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:19:06 - Ignoring header line # 1
+INFO  - 2016-04-10 15:19:06 - Read 49 valid rows from input file
+INFO  - 2016-04-10 15:21:26 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:21:26 - Ignoring header line # 1
+INFO  - 2016-04-10 15:21:26 - Read 49 valid rows from input file
+INFO  - 2016-04-10 15:21:38 - Person #100214703 changing status from absent to checked-in (8 CAR 45-0290) (Wendy A Ward)
+INFO  - 2016-04-10 15:21:40 - Person #100214695 changing status from absent to checked-in (8 CAR 45-0290) (Judith A West)
+INFO  - 2016-04-10 15:21:43 - Person #100214704 changing status from absent to checked-in (8 CAR 45-0290) (Lee Grumman)
+INFO  - 2016-04-10 15:23:39 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:23:39 - Ignoring header line # 1
+INFO  - 2016-04-10 15:23:39 - Read 49 valid rows from input file
+INFO  - 2016-04-10 15:23:46 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:23:46 - Ignoring header line # 1
+ERROR - 2016-04-10 15:23:46 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:46 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:46 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:46 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+INFO  - 2016-04-10 15:23:46 - Ignoring empty line # 6
+ERROR - 2016-04-10 15:23:46 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:47 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:47 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:47 - Error reading a line: System.ArgumentException: no precinct specified
+   at SignInAtLD.DelegatePerson..ctor(List`1 cols) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\DelegatePerson.cs:line 70
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 162
+ERROR - 2016-04-10 15:23:47 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:47 - Error reading a line: System.ArgumentException: invalid line (it has 8 columns
+   at SignInAtLD.DelegatePerson..ctor(List`1 cols) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\DelegatePerson.cs:line 66
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 162
+ERROR - 2016-04-10 15:23:47 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:47 - Error reading a line: System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 163
+ERROR - 2016-04-10 15:23:47 - Error reading a line: System.ArgumentException: no name (first and last) specified; do not know who this is
+   at SignInAtLD.DelegatePerson..ctor(List`1 cols) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\DelegatePerson.cs:line 85
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 162
+INFO  - 2016-04-10 15:23:47 - Read 0 valid rows from input file
+INFO  - 2016-04-10 15:25:52 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:25:52 - Ignoring header line # 1
+INFO  - 2016-04-10 15:25:52 - Read 49 valid rows from input file
+INFO  - 2016-04-10 15:25:59 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:25:59 - Ignoring header line # 1
+INFO  - 2016-04-10 15:25:59 - Ignoring empty line # 6
+ERROR - 2016-04-10 15:25:59 - Error reading a line: System.ArgumentException: no precinct specified
+   at SignInAtLD.DelegatePerson..ctor(List`1 cols) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\DelegatePerson.cs:line 70
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 164
+ERROR - 2016-04-10 15:25:59 - Error reading a line: System.ArgumentException: invalid line (it has 8 columns
+   at SignInAtLD.DelegatePerson..ctor(List`1 cols) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\DelegatePerson.cs:line 66
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 164
+ERROR - 2016-04-10 15:25:59 - Error reading a line: System.ArgumentException: no name (first and last) specified; do not know who this is
+   at SignInAtLD.DelegatePerson..ctor(List`1 cols) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\DelegatePerson.cs:line 85
+   at SignInAtLD.SearchForm.LoadRowsFromFile(String filepath) in c:\Users\nicolas\Documents\Visual Studio 2013\Projects\SignInAtLD\SignInAtLD\SearchForm.cs:line 164
+INFO  - 2016-04-10 15:25:59 - Read 10 valid rows from input file
+INFO  - 2016-04-10 15:26:13 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:26:13 - Ignoring header line # 1
+INFO  - 2016-04-10 15:26:13 - Read 49 valid rows from input file
+INFO  - 2016-04-10 15:28:52 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:28:52 - Ignoring header line # 1
+INFO  - 2016-04-10 15:28:52 - Ignoring empty line # 6
+ERROR - 2016-04-10 15:28:52 - Error reading a line: no precinct specified
+ERROR - 2016-04-10 15:28:52 - Error reading a line: invalid line (it has 8 columns
+ERROR - 2016-04-10 15:28:52 - Error reading a line: no name (first and last) specified; do not know who this is
+INFO  - 2016-04-10 15:28:52 - Read 10 valid rows from input file
+INFO  - 2016-04-10 15:30:47 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:30:47 - Ignoring header line # 1
+INFO  - 2016-04-10 15:30:47 - Ignoring empty line # 6
+ERROR - 2016-04-10 15:30:47 - Error reading a line #10: no precinct specified
+ERROR - 2016-04-10 15:30:47 - Error reading a line #12: invalid line (it has 8 columns)
+ERROR - 2016-04-10 15:30:47 - Error reading a line #15: no name (first and last) specified; do not know who this is
+INFO  - 2016-04-10 15:30:47 - Read 10 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:30:50 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:30:50 - Ignoring header line # 1
+INFO  - 2016-04-10 15:30:50 - Read 49 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:33:39 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:33:39 - Ignoring header line # 1
+INFO  - 2016-04-10 15:33:39 - Ignoring empty line # 6
+ERROR - 2016-04-10 15:33:39 - Error reading a line #10: no precinct specified
+ERROR - 2016-04-10 15:33:39 - Error reading a line #12: invalid line (it has 8 columns)
+ERROR - 2016-04-10 15:33:39 - Error reading a line #15: no name (first and last) specified; do not know who this is
+INFO  - 2016-04-10 15:33:39 - Read 10 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:34:04 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:34:04 - Ignoring header line # 1
+INFO  - 2016-04-10 15:34:04 - Read 49 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:35:05 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:35:05 - Ignoring header line # 1
+INFO  - 2016-04-10 15:35:05 - Ignoring empty line # 6
+ERROR - 2016-04-10 15:35:05 - Error reading a line #10: no precinct specified
+ERROR - 2016-04-10 15:35:05 - Error reading a line #12: invalid line (it has 8 columns)
+ERROR - 2016-04-10 15:35:05 - Error reading a line #15: no name (first and last) specified; do not know who this is
+ERROR - 2016-04-10 15:35:05 - Error reading a line #16: An item with the same key has already been added.
+INFO  - 2016-04-10 15:35:05 - Read 10 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:39:20 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:39:20 - Ignoring header line # 1
+INFO  - 2016-04-10 15:39:20 - Ignoring empty line # 6
+ERROR - 2016-04-10 15:39:20 - Error reading a line #10: no precinct specified
+ERROR - 2016-04-10 15:39:20 - Error reading a line #12: invalid line (it has 8 columns)
+ERROR - 2016-04-10 15:39:20 - Error reading a line #15: no name (first and last) specified; do not know who this is
+ERROR - 2016-04-10 15:39:20 - Error adding (8 WOD 45-3270) (Duchastel Ann Nicolas): An item with the same key has already been added.
+INFO  - 2016-04-10 15:39:20 - Read 10 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:40:33 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:40:33 - Ignoring header line # 1
+INFO  - 2016-04-10 15:40:33 - Ignoring empty line # 6
+ERROR - 2016-04-10 15:40:33 - Error reading a line #10: no precinct specified
+ERROR - 2016-04-10 15:40:33 - Error reading a line #12: invalid line (it has 8 columns)
+ERROR - 2016-04-10 15:40:33 - Error reading a line #15: no name (first and last) specified; do not know who this is
+ERROR - 2016-04-10 15:40:33 - Error adding row with ID = 100214710 (8 WOD 45-3270) (Duchastel Ann Nicolas): An item with the same key has already been added.
+INFO  - 2016-04-10 15:40:33 - Read 10 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\Bad.csv
+INFO  - 2016-04-10 15:44:13 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:44:13 - Ignoring header line # 1
+INFO  - 2016-04-10 15:44:13 - Read 49 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:44:23 - Person #100214315 changing status from absent to checked-in (8 Ames Lake) (Claire A Bonilla)
+INFO  - 2016-04-10 15:44:26 - Person #100214311 changing status from absent to checked-in (8 Ames Lake) (Michael J Bicak)
+INFO  - 2016-04-10 15:44:28 - Person #100214315 changing status from checked-in to absent (8 Ames Lake) (Claire A Bonilla)
+INFO  - 2016-04-10 15:55:46 - Reading input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:55:46 - Ignoring header line # 1
+INFO  - 2016-04-10 15:55:46 - Read 49 valid rows from input file C:\Users\nicolas\Desktop\LDCaucus2008\2008-45LD Del-Alt List-Example.csv
+INFO  - 2016-04-10 15:55:57 - Person #100214339 changing status from absent to checked-in (8 Bacus) (Gordon John Hogenson)
