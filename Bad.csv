@@ -1,0 +1,16 @@
+My Campaign ID,CD,Precinct,LastName,FirstName,MiddleName,Suffix,Salutation,EnvelopeName,mAddress,mCity,mState,mZip5,mZip4,Phone,HomePhone,WorkPhone, WorkPhoneExt,CellPhone,Email,Sex,DEL-C,DEL-O,DEL-U,ALT-C,ALT-O,ALT-U
+100214300,8,Ames Lake,Burner,Michael,Gerard,,Michael,Michael G. Burner,3630 W Ames Lake Dr NE ,Redmond,WA,98053,9106,4258806008,4258806008,,,,mike@mikeburner.com,M,x,,,,,
+100214301,8,Ames Lake,Magnuson,Christine,I,,Christine,Christine I. Magnuson,3211 E Ames Lake Dr NE ,Redmond,WA,98053,9142,4258804073,4258804073,,,,cms@cablespeed.com,F,x,,,,,
+100214304,8,Ames Lake,Watanabe,Katherine,Lynn,,Katherine,Katherine L. Watanabe,2507 281st Ave NE ,Redmond,WA,98053,3119,4258806059,4253762960,,,4258806059,,F,x,,,,,
+100214305,8,Ames Lake,Romley,Nicki,M,,Nicki,Nicki M. Romley,27904 NE 21st St ,Carnation,WA,98014,8236,4253334247,4253334247,,,,,F,,x,,,,
+
+100214306,8,Ames Lake,Romley,Richard,M,JR,Richard,Richard M. Romley,27904 NE 21st St ,Carnation,WA,98014,8236,4253334247,4253334247,,,,,M,,x,,,,
+100214310,8,Ames Lake,McGuffin,Michael,Francis,,Michael,Michael F. McGuffin,2525 281st Ave NE ,Redmond,WA,98053,3119,4258806162,4258806162,,,,,M,,x,,,,
+100214311,8,Ames Lake,Bicak,Michael,J,,Michael,Michael J. Bicak,3234 E Ames Lake Dr NE ,Redmond,WA,98053,9142,4258804757,4258804757,,,2068902210,bicaknoll@centurytel.net,M,,x,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+100214302,8,Ames Lake,Yamamoto,Stacey,A,,Stacey,Stacey A. Yamamoto,3030 Quail Creek Way NE ,Redmond,WA,98053,1903,4258806097,4258806097,,,,,F,,,,1,,
+t.net,F,,x,,,,
+100214710,8,CAR 45-3290,Thomas,Maureen,Ann,,Maureen,Maureen A. Thomas,4173 325th Ave NE ,Carnation,WA,98014,8724,4253336431,4253336431,,,,maureena.thomas@gmail.com,F,,,,1,,
+100214706,8,CAR 45-3290,Brown,Leslie,A,,Leslie,Leslie A. Brown,4420 326th Ave NE ,Carnation,WA,98014,8721,2533336613,2533336613,,,,leslie.brown@asmnet.com,F,,,,,1,
+100214311,8,Ames Lake,,,,,Michael,Michael J. Bicak,3234 E Ames Lake Dr NE ,Redmond,WA,98053,9142,4258804757,4258804757,,,2068902210,bicaknoll@centurytel.net,M,,x,,,,
+100214710,8,WOD 45-3270,Nicolas,Duchastel,Ann,,Maureen,Maureen A. Thomas,4173 325th Ave NE ,Carnation,WA,98014,8724,4253336431,4253336431,,,,maureena.thomas@gmail.com,M,,,,1,,
